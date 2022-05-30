@@ -79,6 +79,10 @@ body {
   height: auto;
 }
 
+#main-player {
+  border: 0;
+}
+
 .right-content {
   grid-column: 9 / -1;
   margin: 0 0 0 10px;
